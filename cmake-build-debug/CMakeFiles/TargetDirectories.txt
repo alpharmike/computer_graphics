@@ -1,0 +1,3 @@
+D:/OpenGLProjects/Transformations/cmake-build-debug/CMakeFiles/Transformations.dir
+D:/OpenGLProjects/Transformations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OpenGLProjects/Transformations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
